@@ -1,22 +1,16 @@
 # Movix
 
-This is an IMDB clone application built with React and Redux. It allows users to browse movies and tv shows, search for movies and tv shows, and view details about individual movies and tv shows.
+This is a Movie and TV shows searching and browsing application built with React and Redux. TMDB API is used to get data about Movies and TV shows.
 
-## Installation
-
-To install the application, you will need to have [Node.js](https://nodejs.org/en/) installed on your computer. Once you have Node.js installed, follow these steps:
-
-1. Clone this repository to your local machine
-2. Navigate to the project directory in your terminal
-3. Run `npm install` to install all the dependencies
-4. Run `npm run dev` to start the application
+## Demo
+https://github.com/HussainGagan/Movix/assets/69407430/ce7c773e-3531-4a23-acef-0e467fe2c9a9
 
 ## Features
 
-- Browse movies by category
-- Search for movies and tv shows by title
-- View details about individual movies release date, and cast and crew members
-- Watch Trailer of the Movie and Tv Shows
+- Browse movies and tv shows by category.
+- Search for movies and tv shows by title.
+- View details about individual movies and shows release date, rating, cast and crew members.
+- Watch Trailer of the Movie and TV Shows.
 
 ## Technologies Used
 
